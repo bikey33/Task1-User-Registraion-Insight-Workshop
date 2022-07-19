@@ -1,0 +1,4 @@
+RamKumar, Rai,ramrai@yahoo.com,9867465392,Itahari,System Design,
+Santosh,shrestha,santosh334@gmail.com,9845676872,Ktm,Go,
+Buddhi Krishna,Thapa,thapakbb1289@gmail.com,9829382189,Dhankuta-12,Machine Learning and Django,
+Lilam,Thapa,thapakbb1289@gmail.com,9842745838,Dharan,Data Science,
